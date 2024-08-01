@@ -1,4 +1,12 @@
 /* ImageRatingComponent.css */
+.value_of_total_rating{
+    display: block;
+}
+
+.totals{
+    padding: 10px 20px;
+    font-size: 16px;
+}
 
 .content-rating {
     text-align: center;
